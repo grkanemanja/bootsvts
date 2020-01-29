@@ -1,0 +1,92 @@
+.boja{
+
+	background-color: #0033cc;
+}
+.navbar-nav {
+    float:none;
+    margin:0 auto;
+    display: block;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.navbar-nav > li {
+    display: inline-block;
+    float:none;
+    color:red;
+    font-size: 20px;
+}
+
+.slika{
+
+	
+	background:url('slika.jpg') no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	padding:100px 250px 100px 250px;
+}
+
+
+.tekstprekoslike{
+
+	letter-spacing: 3px;
+	font-weight: bold;
+	color: white;
+	position: center;
+	font-size: 25px;
+	font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.pozicija{
+
+	text-align: center;
+}
+
+.pozadinakonferencija{
+	background-color: #b3d1ff;
+}
+
+.tekstkonferencija{
+	text-align: justify-all;
+	letter-spacing: 1px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.futer{
+	color: white;
+	padding: 10px;
+	background-color: #0033cc;
+	position: relative;
+	left: 0;
+  	bottom: 0;
+	width: 100%;
+}
+.li{
+	font-size:17px;
+	letter-spacing: 1px;
+}
+.futer>.page-footer>.footer-copyright>a:hover{
+	color:white;
+}
+.teme{
+	padding-left:15%;
+	text-align: justify-all;
+	letter-spacing: 1px;
+}
+.drugideoteme{
+	display: inline-block;
+	float: right;
+}
+
+.sm{
+    width: 25px;
+    height: 25px;
+}
+
+.kontakt{
+	padding: 20px;
+}
